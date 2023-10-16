@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-internet-speed-converter/static/css/main.253df923.css",
+    "main.js": "/React-internet-speed-converter/static/js/main.e0122c48.js",
+    "static/js/787.4ec79d1d.chunk.js": "/React-internet-speed-converter/static/js/787.4ec79d1d.chunk.js",
+    "index.html": "/React-internet-speed-converter/index.html",
+    "main.253df923.css.map": "/React-internet-speed-converter/static/css/main.253df923.css.map",
+    "main.e0122c48.js.map": "/React-internet-speed-converter/static/js/main.e0122c48.js.map",
+    "787.4ec79d1d.chunk.js.map": "/React-internet-speed-converter/static/js/787.4ec79d1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253df923.css",
+    "static/js/main.e0122c48.js"
+  ]
+}
