@@ -1,3 +1,3 @@
 # Go to the [Live Demo]
 
-[internet-speed-converter](https://louislin511986.github.io/internet-speed-converter/).
+[internet-speed-converter](https://louislin511986.github.io/React-internet-speed-converter/).
